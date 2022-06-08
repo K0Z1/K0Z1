@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fauzi
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Laravel
 
 <!---
 K0Z1/K0Z1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
